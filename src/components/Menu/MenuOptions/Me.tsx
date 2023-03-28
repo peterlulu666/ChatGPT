@@ -12,7 +12,7 @@ const Me = () => {
       target='_blank'
     >
       <HeartIcon />
-      {t('Made by Jing Hua. This website is published by pbk123461')}
+      {t('小绵羊老婆ChatGPT')}
     </a>
   );
 };
